@@ -1,0 +1,9 @@
+h1 {
+  color: blue;
+  /* background-color: honeydew;*/
+  text-align: center;
+  line-height: 80px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 40px;
+  font-weight: lighter;
+} 
